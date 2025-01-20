@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there, I'm WaltStephen! 👋
 
-<!--
-**waltstephen/waltstephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://profile-counter.glitch.me/waltstephen/count.svg" alt="Visitor Count" />  
+  <p><em>The number of times my profile has been visited! 🎉</em></p>
+</div>
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate computer science student at **Sun Yat-sen University** with a love for all things tech, philosophy, and literature.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 About Me  
+- **Pursuing B.Eng. in Computer Science** at Sun Yat-sen University. 🏫  
+- **Dream**: To become a **full-stack AI engineer**! 🤖✨  
+- **Currently learning**: CUDA programming for AI hardware acceleration. 💻🔥  
+- **Interests beyond tech**: Philosophy, literature, and the intersection of humanity and technology. 📚🤔  
+
+---
+
+## 🔬 Research Interests  
+- **3D/4D generation**: Building dynamic, multi-dimensional AI models. 🌐🧩  
+- **Foundation models**: Exploring large-scale AI systems. 🤯📊  
+- **Diffusion models**: Generating realistic, high-quality data. 🎨🖼️  
+- **Graph Neural Networks**: Understanding interconnected systems. 🕸️🧠  
+- **AI ethics**: Aligning technology with human values. 🤝⚖️  
+
+---
+
+## 🌍 Beyond Tech  
+- **Philosophy**: Exploring thinkers like Kant, Nietzsche, and Simone de Beauvoir. 📖🤓  
+- **Literature**: Enjoying works by Tolstoy, Kafka, and Murakami. 📚🌌  
+- **Why it matters**: Philosophy and literature inspire creativity and critical thinking in my technical work. 💡✨  
+
+---
+
+## 🛠️ Skills & Tools  
+- **Languages**: Python (PyTorch), C/C++, CUDA. 🐍💻  
+- **Tools**: Linux, LaTeX, Git. 🐧📄🔧  
+- **Learning**: Currently diving deep into **CUDA kernel programming** for AI optimization. 🚀🔥  
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltstephen&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+## 🌟 Let’s Connect!  
+Whether you’re into AI, philosophy, literature, or just want to chat about life, feel free to reach out! Let’s build something amazing together! 🚀  
+
+- **AI enthusiasts**: Let’s talk about the future of AI! 🤖🚀  
+- **Philosophy buffs**: Let’s debate the meaning of life! 🤔📚  
+- **Literature lovers**: Let’s discuss our favorite books! 📖❤️  
+- **Everyone else**: Let’s just have fun and create something cool! 🎉✨  
+
+📫 **Reach me at**: [1957804226@qq.com](1957804226@qq.com)  
