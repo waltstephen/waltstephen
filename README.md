@@ -55,3 +55,4 @@ Whether you’re into AI, philosophy, literature, or just want to chat about lif
 - **Everyone else**: Let’s just have fun and create something cool! 🎉✨  
 
 📫 **Reach me at**: [1957804226@qq.com](1957804226@qq.com)  
+🎓 **Google Scholar**: [View My Profile](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ANZ5fUN5IsllKPexdVRtKPRQVEkLxD3oaZfEJE-ujtZUax2EvBxK1H0adsQG3hzAoVOsREMUmcbS5ISR4Jrzpif0xEyc&user=9pTJT4EAAAAJ)
