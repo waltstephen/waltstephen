@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate computer science student at **Sun
 ---
 
 ## 🎓 About Me  
-- **Pursuing B.Eng. in Computer Science** at Sun Yat-sen University. 🏫  
+- **Sophomore Computer Science student** at Sun Yat-sen University. 🏫  
 - **Dream**: To become a **full-stack AI engineer**! 🤖✨  
 - **Currently learning**: CUDA programming for AI hardware acceleration. 💻🔥  
 - **Interests beyond tech**: Philosophy, literature, and the intersection of humanity and technology. 📚🤔  
