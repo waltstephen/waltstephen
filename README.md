@@ -5,13 +5,12 @@
   <p><em>The number of times my profile has been visited! 🎉</em></p>
 </div>
 
-Welcome to my GitHub profile! I'm a passionate computer science student at **Sun Yat-sen University**, currently a research intern at MSRA (Microsoft Research Asia), and I love all things tech, philosophy, and literature.
+Welcome to my GitHub profile! I'm a passionate computer science student at **Sun Yat-sen University**, and I love all things tech, philosophy, and literature.
 
 ---
 
 ## 🎓 About Me  
 - **Sophomore Computer Science student** at Sun Yat-sen University. 🏫
-- **Research intern** at MSRA. 🪟
 - **Dream**: To become a **full-stack AI engineer**! 🤖✨  
 - **Currently learning**: CUDA programming for AI hardware acceleration. 💻🔥  
 - **Interests beyond tech**: Philosophy, literature, and the intersection of humanity and technology. 📚🤔  
