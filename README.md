@@ -15,8 +15,8 @@ My long-term goal is to build a **unified world model** that seamlessly integrat
 ## 🎓 About Me  
 - **Education**: B.Eng. in Computer Science, Sun Yat-sen University (Sept 2023 - Present).  
 - **Research Labs**: 
-  - **Microsoft Research Asia (MSRA)**, Shanghai ML Group (Mentor: Yifan Yang).
-  - **HCP Lab**, Sun Yat-sen University (Supervisor: Prof. Keze Wang).
+  - **Microsoft Research Asia (MSRA)**, Shanghai ML Group.
+  - **HCP Lab**, Sun Yat-sen University.
 - **Role**: Reviewer for CVPR 2026, AAAI 2026, ICLR 2026.
 - **Interests beyond tech**: Philosophy (Kant, Nietzsche), Literature (Tolstoy, Kafka), and the intersection of humanity and technology. 📚🤔  
 
