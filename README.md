@@ -33,7 +33,7 @@ My research centers on advancing **multi-agent collaborative intelligence** by i
 ---
 
 ## 📝 Selected Publications
-*Check out my [Google Scholar](#) for the full list.*
+*Check out my [Google Scholar](#https://scholar.google.com/citations?user=9pTJT4EAAAAJ&hl=en) for the full list.*
 
 - **[AAAI 2026] Cost-Effective Communication: An Auction-based Method for Language Agent Interaction**  
   **Yijia Fan**, Jusheng Zhang, Kaitong Cai, et al.
