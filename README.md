@@ -36,15 +36,11 @@ My research centers on advancing **multi-agent collaborative intelligence** by i
 *Check out my [Google Scholar](https://scholar.google.com/citations?user=9pTJT4EAAAAJ&hl=en) for the full list.*
 
 - **[AAAI 2026] Cost-Effective Communication: An Auction-based Method for Language Agent Interaction**  
-  **Yijia Fan**, Jusheng Zhang, Kaitong Cai, et al.
+  **Yijia Fan**, Kaitong Cai, et al.
 - **[AAAI 2026] 3DAlign-DAER: Dynamic Attention Policy and Efficient Retrieval Strategy for Fine-grained 3D-Text Alignment**  
   **Yijia Fan**, Jusheng Zhang, Kaitong Cai, et al.
 - **[NeurIPS 2025] GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning**  
   Jusheng Zhang, **Yijia Fan**, et al.
-- **[NeurIPS 2025] Tri-MARF: A Tri-Modal Multi-Agent Responsive Framework for Comprehensive 3D Object Annotation**  
-  Jusheng Zhang, **Yijia Fan**, et al.
-- **[EMNLP 2025] CCG: Rare-Label Prediction via Neural SEM–Driven Causal Game**  
-  **Yijia Fan**, Jusheng Zhang, et al.
 
 ---
 
