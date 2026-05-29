@@ -45,7 +45,7 @@ My research centers on advancing **multi-agent collaborative intelligence** by i
 ---
 
 ## 💼 Experience Highlights
-- **Microsoft Research Asia (Shanghai ML Group)** | *July 2025 – Present*  
+- **Microsoft Research Asia (Visual Computing Group)** | *July 2025 – Present*  
   - Improving video generation using hierarchical VAE and exploring next-gen discretized VLM projects.
   - Training Unified video generation/understanding models on multi-node clusters (DeepSpeed).
 - **HCP Lab (SYSU)** | *July 2024 – Present*  
