@@ -1,7 +1,7 @@
 # Hi there, I'm Yijia Fan (WaltStephen)! 👋
 
 <div align="center">
-  <p><em>Current Status: Research Intern at MSRA & Undergraduate at SYSU</em></p>
+  <p><em>Current Status: Research Intern at Microsoft & Undergraduate at SYSU</em></p>
 </div>
 
 Welcome to my GitHub profile! I am an Undergraduate Computer Science student at **Sun Yat-sen University (SYSU)** and a Research Intern at **Microsoft**. 
