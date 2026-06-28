@@ -4,7 +4,7 @@
   <p><em>Current Status: Research Intern at MSRA & Undergraduate at SYSU</em></p>
 </div>
 
-Welcome to my GitHub profile! I am an Undergraduate Computer Science student at **Sun Yat-sen University (SYSU)** and a Research Intern at **Microsoft Research Asia (MSRA)**. 
+Welcome to my GitHub profile! I am an Undergraduate Computer Science student at **Sun Yat-sen University (SYSU)** and a Research Intern at **Microsoft**. 
 
 My long-term goal is to build a **unified world model** that seamlessly integrates understanding and generation across modalities and agents.
 
@@ -33,14 +33,7 @@ My research centers on advancing **multi-agent collaborative intelligence** by i
 ---
 
 ## 📝 Selected Publications
-*Check out my [Google Scholar](https://scholar.google.com/citations?user=9pTJT4EAAAAJ&hl=en) for the full list.*
-
-- **[AAAI 2026] Cost-Effective Communication: An Auction-based Method for Language Agent Interaction**  
-  **Yijia Fan**, Kaitong Cai, et al.
-- **[AAAI 2026] 3DAlign-DAER: Dynamic Attention Policy and Efficient Retrieval Strategy for Fine-grained 3D-Text Alignment**  
-  **Yijia Fan**, Jusheng Zhang, Kaitong Cai, et al.
-- **[NeurIPS 2025] GAM-Agent: Game-Theoretic and Uncertainty-Aware Collaboration for Complex Visual Reasoning**  
-  Jusheng Zhang, **Yijia Fan**, et al.
+*Check out my [Google Scholar](https://scholar.google.com/citations?user=9pTJT4EAAAAJ&hl=en) for the full list.
 
 ---
 
