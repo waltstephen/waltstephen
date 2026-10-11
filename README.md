@@ -18,7 +18,6 @@ My long-term goal is to build a **unified world model** that seamlessly integrat
   - **NovaX**, Research Intern.
   - **Sensetime**, Research Intern.
   - **Microsoft**, Research Intern.
-  - **HCP Lab**, Sun Yat-sen University.
 - **Role**: Reviewer for CVPR 2026, AAAI 2026, ICLR 2026.
 - **Interests beyond tech**: Philosophy (Kant, Nietzsche), Literature (Tolstoy, Kafka), and the intersection of humanity and technology. 📚🤔  
 
